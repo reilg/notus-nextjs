@@ -1,9 +1,9 @@
 {
-  "name": "notus-nextjs",
+  "name": "sila-notus",
   "homepage": "https://demos.creative-tim.com/notus-nextjs",
-  "version": "1.1.0",
-  "description": "Notus NextJS - A free Tailwind CSS, NextJS and React Ui Kit and Admin by Creative Tim.",
-  "repository": "https://github.com/creativetimofficial/notus-nextjs",
+  "version": "1.0",
+  "description": "Sila Adminer with Notus NextJS",
+  "repository": "",
   "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.3",
